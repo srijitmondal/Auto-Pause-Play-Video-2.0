@@ -29,6 +29,6 @@ Auto Pause/Play Video does not collect or store any personal data. It only inter
 
 ## Support:
 
-For support and feedback, please contact us at [srijitmondal7@.com].
+For support and feedback, please contact us at [srijitmondal7@gmail.com].
 
 # Enhance your browsing experience with Auto Pause/Play Video and enjoy hassle-free video management across all your tabs!
